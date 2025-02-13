@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232686963233",
+    "project_id": "farmcart-a70bc",
+    "storage_bucket": "farmcart-a70bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232686963233:android:fb4a2caf6c1c6139e5b160",
+        "android_client_info": {
+          "package_name": "com.example.flutter_mycart_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Y1lkscJN0zKIFtWkxvMfaXFK0Uw2Ajk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
